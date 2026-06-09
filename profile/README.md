@@ -12,4 +12,5 @@ Source Code Repositories:
 - Remote Computations: [strucenglib-connect](https://github.com/StrucEng-Library-kfmresearch/strucenglib-connect)
 - StrucEng Library Snippets: [strucenglib-snippets](https://github.com/StrucEng-Library-kfmresearch/strucenglib-snippets)
 - StrucEng Library Patches for Compas FEA1: [compas_fea](https://github.com/StrucEng-Library-kfmresearch/compas_fea) 
-- StrucEng Library Patches for Compas: [compas](https://github.com/StrucEng-Library-kfmresearch/compas) 
+- StrucEng Library Patches for Compas: [compas](https://github.com/StrucEng-Library-kfmresearch/compas)
+- StrucEng Library Plugins for ANSYS: [compas](https://github.com/StrucEng-Library-kfmresearch/compas) 
